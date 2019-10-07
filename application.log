@@ -1,0 +1,587 @@
+2019-10-07 11:58:25,326  INFO [main] Scenario1:35 - Page is redirecting to proper web page
+2019-10-07 11:59:31,128  INFO [main] Scenario1:47 - Product title validate successfully
+2019-10-07 11:59:31,638  INFO [main] Scenario1:51 - Product price validate successfully
+2019-10-07 11:59:34,859  INFO [main] Scenario1:56 - Product add to cart button validate successfully
+2019-10-07 11:59:35,407  INFO [main] Scenario1:60 - Product add to wishlist button validate successfully
+2019-10-07 11:59:35,824  INFO [main] Scenario1:63 - Sold
+Out
+2019-10-07 11:59:35,825  INFO [main] Scenario1:65 - Product availibility validate successfully
+2019-10-07 12:00:54,615  INFO [main] Scenario1:81 - Negative input validation passed
+2019-10-07 12:00:55,361 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 12:00:55,369 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 12:00:55,376 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 12:00:55,381 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 12:00:55,383 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 12:00:56,011 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 12:00:56,014 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 12:00:56,015 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 12:00:56,018 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 12:00:56,019 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 12:03:41,448  INFO [main] Scenario1:35 - Page is redirecting to proper web page
+2019-10-07 12:03:44,042  INFO [main] Scenario1:47 - Product title validate successfully
+2019-10-07 12:03:44,344  INFO [main] Scenario1:51 - Product price validate successfully
+2019-10-07 12:03:46,808  INFO [main] Scenario1:56 - Product add to cart button validate successfully
+2019-10-07 12:03:46,904  INFO [main] Scenario1:60 - Product add to wishlist button validate successfully
+2019-10-07 12:03:47,007  INFO [main] Scenario1:63 - Sold
+Out
+2019-10-07 12:03:47,008  INFO [main] Scenario1:65 - Product availibility validate successfully
+2019-10-07 12:03:51,286  INFO [main] Scenario1:81 - Negative input validation passed
+2019-10-07 12:03:54,538 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 12:03:54,540 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 12:03:54,543 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 12:03:54,545 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 12:03:54,546 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 12:03:54,976 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 12:03:54,977 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 12:03:54,978 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 12:03:54,980 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 12:03:54,981 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 12:06:19,326  INFO [main] Scenario1:35 - Page is redirecting to proper web page
+2019-10-07 12:06:22,465  INFO [main] Scenario1:47 - Product title validate successfully
+2019-10-07 12:06:22,590  INFO [main] Scenario1:51 - Product price validate successfully
+2019-10-07 12:06:24,967  INFO [main] Scenario1:56 - Product add to cart button validate successfully
+2019-10-07 12:06:25,102  INFO [main] Scenario1:60 - Product add to wishlist button validate successfully
+2019-10-07 12:06:25,188  INFO [main] Scenario1:63 - Sold
+Out
+2019-10-07 12:06:25,188  INFO [main] Scenario1:65 - Product availibility validate successfully
+2019-10-07 12:06:28,570  INFO [main] Scenario1:81 - Negative input validation passed
+2019-10-07 12:06:29,710 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 12:06:29,710 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 12:06:29,714 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 12:06:29,714 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 12:06:29,718 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 12:06:30,125 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 12:06:30,125 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 12:06:30,129 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 12:06:30,129 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 12:06:30,129 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 12:09:59,434  INFO [main] Scenario1:35 - Page is redirecting to proper web page
+2019-10-07 12:10:03,172  INFO [main] Scenario1:47 - Product title validate successfully
+2019-10-07 12:10:03,338  INFO [main] Scenario1:51 - Product price validate successfully
+2019-10-07 12:10:05,711  INFO [main] Scenario1:56 - Product add to cart button validate successfully
+2019-10-07 12:10:05,860  INFO [main] Scenario1:60 - Product add to wishlist button validate successfully
+2019-10-07 12:10:06,044  INFO [main] Scenario1:63 - Sold
+Out
+2019-10-07 12:10:06,044  INFO [main] Scenario1:65 - Product availibility validate successfully
+2019-10-07 12:10:10,980  INFO [main] Scenario1:81 - Negative input validation passed
+2019-10-07 12:10:33,950  INFO [main] Scenario2:68 - description validate successfully
+2019-10-07 12:10:35,736  INFO [main] Scenario2:102 - Sorting Functionality Working Properly
+2019-10-07 12:10:35,979  INFO [main] Scenario2:102 - Sorting Functionality Working Properly
+2019-10-07 12:10:39,706  INFO [main] Scenario2:105 - Sorting Functionality Working Properly
+2019-10-07 12:10:39,958  INFO [main] Scenario2:105 - Sorting Functionality Working Properly
+2019-10-07 12:10:43,181  INFO [main] Scenario2:141 - Sorting Functionality Working Properly
+2019-10-07 12:10:43,299  INFO [main] Scenario2:141 - Sorting Functionality Working Properly
+2019-10-07 12:10:46,648  INFO [main] Scenario2:144 - Sorting Functionality Working Properly
+2019-10-07 12:10:46,784  INFO [main] Scenario2:144 - Sorting Functionality Working Properly
+2019-10-07 12:10:47,861 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 12:10:47,865 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 12:10:47,869 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 12:10:47,881 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 12:10:47,881 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 12:10:48,425 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 12:10:48,425 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 12:10:48,429 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 12:10:48,429 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 12:10:48,441 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 12:15:54,578  INFO [main] Scenario1:36 - Page is redirecting to proper web page
+2019-10-07 12:15:57,835  INFO [main] Scenario1:49 - Product title validate successfully
+2019-10-07 12:15:57,979  INFO [main] Scenario1:53 - Product price validate successfully
+2019-10-07 12:16:00,352  INFO [main] Scenario1:58 - Product add to cart button validate successfully
+2019-10-07 12:16:00,456  INFO [main] Scenario1:62 - Product add to wishlist button validate successfully
+2019-10-07 12:16:00,560  INFO [main] Scenario1:65 - Sold
+Out
+2019-10-07 12:16:00,560  INFO [main] Scenario1:67 - Product availibility validate successfully
+2019-10-07 12:16:05,055  INFO [main] Scenario1:84 - Negative input validation passed
+2019-10-07 12:16:28,698  INFO [main] Scenario2:68 - description validate successfully
+2019-10-07 12:16:30,606  INFO [main] Scenario2:102 - Sorting Functionality Working Properly
+2019-10-07 12:16:30,805  INFO [main] Scenario2:102 - Sorting Functionality Working Properly
+2019-10-07 12:16:31,069  INFO [main] Scenario2:102 - Sorting Functionality Working Properly
+2019-10-07 12:16:34,928  INFO [main] Scenario2:105 - Sorting Functionality Working Properly
+2019-10-07 12:16:35,184  INFO [main] Scenario2:105 - Sorting Functionality Working Properly
+2019-10-07 12:16:35,460  INFO [main] Scenario2:105 - Sorting Functionality Working Properly
+2019-10-07 12:16:39,059  INFO [main] Scenario2:141 - Sorting Functionality Working Properly
+2019-10-07 12:16:39,171  INFO [main] Scenario2:141 - Sorting Functionality Working Properly
+2019-10-07 12:16:39,283  INFO [main] Scenario2:141 - Sorting Functionality Working Properly
+2019-10-07 12:16:42,795  INFO [main] Scenario2:144 - Sorting Functionality Working Properly
+2019-10-07 12:16:42,902  INFO [main] Scenario2:144 - Sorting Functionality Working Properly
+2019-10-07 12:16:43,006  INFO [main] Scenario2:144 - Sorting Functionality Working Properly
+2019-10-07 12:16:44,154 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 12:16:44,158 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 12:16:44,162 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 12:16:44,166 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 12:16:44,166 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 12:16:44,734 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 12:16:44,738 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 12:16:44,742 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 12:16:44,746 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 12:16:44,746 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 12:18:01,100  INFO [main] Scenario1:36 - Page is redirecting to proper web page
+2019-10-07 12:18:04,489  INFO [main] Scenario1:49 - Product title validate successfully
+2019-10-07 12:18:04,620  INFO [main] Scenario1:53 - Product price validate successfully
+2019-10-07 12:18:36,005  INFO [main] Scenario2:68 - description validate successfully
+2019-10-07 12:18:37,597  INFO [main] Scenario2:102 - Sorting Functionality Working Properly
+2019-10-07 12:18:37,819  INFO [main] Scenario2:102 - Sorting Functionality Working Properly
+2019-10-07 12:18:41,533  INFO [main] Scenario2:105 - Sorting Functionality Working Properly
+2019-10-07 12:18:41,733  INFO [main] Scenario2:105 - Sorting Functionality Working Properly
+2019-10-07 12:18:45,417  INFO [main] Scenario2:141 - Sorting Functionality Working Properly
+2019-10-07 12:18:45,562  INFO [main] Scenario2:141 - Sorting Functionality Working Properly
+2019-10-07 12:18:49,182  INFO [main] Scenario2:144 - Sorting Functionality Working Properly
+2019-10-07 12:18:49,335  INFO [main] Scenario2:144 - Sorting Functionality Working Properly
+2019-10-07 12:18:50,426 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 12:18:50,430 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 12:18:50,434 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 12:18:50,434 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 12:18:50,438 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 12:18:50,802 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 12:18:50,802 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 12:18:50,802 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 12:18:50,802 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 12:18:50,802 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 12:19:44,156  INFO [main] Scenario1:36 - Page is redirecting to proper web page
+2019-10-07 12:19:47,359  INFO [main] Scenario1:49 - Product title validate successfully
+2019-10-07 12:19:47,528  INFO [main] Scenario1:53 - Product price validate successfully
+2019-10-07 12:19:49,913  INFO [main] Scenario1:58 - Product add to cart button validate successfully
+2019-10-07 12:19:50,028  INFO [main] Scenario1:62 - Product add to wishlist button validate successfully
+2019-10-07 12:19:50,124  INFO [main] Scenario1:65 - Sold
+Out
+2019-10-07 12:19:50,124  INFO [main] Scenario1:67 - Product availibility validate successfully
+2019-10-07 12:19:55,209  INFO [main] Scenario1:84 - Negative input validation passed
+2019-10-07 12:19:56,307 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 12:19:56,307 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 12:19:56,311 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 12:19:56,311 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 12:19:56,311 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 12:19:56,715 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 12:19:56,715 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 12:19:56,715 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 12:19:56,719 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 12:19:56,723 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 12:20:38,620  INFO [main] Scenario1:36 - Page is redirecting to proper web page
+2019-10-07 12:20:41,514  INFO [main] Scenario1:49 - Product title validate successfully
+2019-10-07 12:20:41,649  INFO [main] Scenario1:53 - Product price validate successfully
+2019-10-07 12:21:05,814  INFO [main] Scenario2:68 - description validate successfully
+2019-10-07 12:21:07,391  INFO [main] Scenario2:102 - Sorting Functionality Working Properly
+2019-10-07 12:21:07,628  INFO [main] Scenario2:102 - Sorting Functionality Working Properly
+2019-10-07 12:21:10,788  INFO [main] Scenario2:105 - Sorting Functionality Working Properly
+2019-10-07 12:21:11,074  INFO [main] Scenario2:105 - Sorting Functionality Working Properly
+2019-10-07 12:21:14,253  INFO [main] Scenario2:141 - Sorting Functionality Working Properly
+2019-10-07 12:21:14,382  INFO [main] Scenario2:141 - Sorting Functionality Working Properly
+2019-10-07 12:21:17,598  INFO [main] Scenario2:144 - Sorting Functionality Working Properly
+2019-10-07 12:21:17,720  INFO [main] Scenario2:144 - Sorting Functionality Working Properly
+2019-10-07 12:21:18,762 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 12:21:18,766 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 12:21:18,766 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 12:21:18,770 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 12:21:18,774 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 12:21:19,202 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 12:21:19,202 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 12:21:19,202 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 12:21:19,202 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 12:21:19,202 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 12:44:34,740  INFO [main] Scenario2:68 - description validate successfully
+2019-10-07 12:44:36,413  INFO [main] Scenario2:102 - Sorting Functionality Working Properly
+2019-10-07 12:44:36,691  INFO [main] Scenario2:102 - Sorting Functionality Working Properly
+2019-10-07 12:44:36,935  INFO [main] Scenario2:102 - Sorting Functionality Working Properly
+2019-10-07 12:44:43,820  INFO [main] Scenario2:141 - Sorting Functionality Working Properly
+2019-10-07 12:44:44,014  INFO [main] Scenario2:141 - Sorting Functionality Working Properly
+2019-10-07 12:44:44,200  INFO [main] Scenario2:141 - Sorting Functionality Working Properly
+2019-10-07 12:44:46,887  INFO [main] Scenario2:141 - Sorting Functionality Working Properly
+2019-10-07 12:44:48,406 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 12:44:48,408 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 12:44:48,410 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 12:44:48,412 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 12:44:48,412 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 12:44:48,760 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 12:44:48,761 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 12:44:48,761 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 12:44:48,764 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 12:44:48,764 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 12:50:49,803  INFO [main] Scenario2:68 - description validate successfully
+2019-10-07 12:50:50,151  INFO [main] Scenario2:55 - specification validate successfully
+2019-10-07 12:50:51,374  INFO [main] Scenario2:102 - Sorting by date Functionality Working Properly
+2019-10-07 12:50:51,603  INFO [main] Scenario2:102 - Sorting by date Functionality Working Properly
+2019-10-07 12:50:51,836  INFO [main] Scenario2:102 - Sorting by date Functionality Working Properly
+2019-10-07 12:51:06,362  INFO [main] Scenario2:141 - Sorting by rating Functionality Working Properly
+2019-10-07 12:51:06,530  INFO [main] Scenario2:141 - Sorting by rating Functionality Working Properly
+2019-10-07 12:51:06,698  INFO [main] Scenario2:141 - Sorting by rating Functionality Working Properly
+2019-10-07 12:51:09,991  INFO [main] Scenario2:141 - Sorting by rating Functionality Working Properly
+2019-10-07 12:51:12,273 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 12:51:12,276 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 12:51:12,280 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 12:51:12,282 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 12:51:12,282 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 12:51:12,666 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 12:51:12,667 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 12:51:12,670 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 12:51:12,671 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 12:51:12,671 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 13:01:40,083  INFO [main] Scenario2:68 - description validate successfully
+2019-10-07 13:01:40,433  INFO [main] Scenario2:55 - specification validate successfully
+2019-10-07 13:01:41,565  INFO [main] Scenario2:102 - Sorting by date Functionality Working Properly
+2019-10-07 13:01:41,801  INFO [main] Scenario2:102 - Sorting by date Functionality Working Properly
+2019-10-07 13:01:45,584  INFO [main] Scenario2:105 - Sorting by date Functionality Working Properly
+2019-10-07 13:01:45,868  INFO [main] Scenario2:105 - Sorting by date Functionality Working Properly
+2019-10-07 13:01:48,629  INFO [main] Scenario2:141 - Sorting by rating Functionality Working Properly
+2019-10-07 13:01:48,790  INFO [main] Scenario2:141 - Sorting by rating Functionality Working Properly
+2019-10-07 13:01:51,611  INFO [main] Scenario2:144 - Sorting by rating Functionality Working Properly
+2019-10-07 13:01:51,824  INFO [main] Scenario2:144 - Sorting by rating Functionality Working Properly
+2019-10-07 13:01:52,806 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 13:01:52,808 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 13:01:52,811 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 13:01:52,813 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 13:01:52,814 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 13:01:53,219 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 13:01:53,221 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 13:01:53,221 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 13:01:53,222 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 13:01:53,222 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 13:02:34,418  INFO [main] Scenario1:36 - Page is redirecting to proper web page
+2019-10-07 13:02:37,451  INFO [main] Scenario1:49 - Product title validate successfully
+2019-10-07 13:02:37,556  INFO [main] Scenario1:53 - Product price validate successfully
+2019-10-07 13:02:39,891  INFO [main] Scenario1:58 - Product add to cart button validate successfully
+2019-10-07 13:02:40,013  INFO [main] Scenario1:62 - Product add to wishlist button validate successfully
+2019-10-07 13:02:40,114  INFO [main] Scenario1:65 - Sold
+Out
+2019-10-07 13:02:40,115  INFO [main] Scenario1:67 - Product availibility validate successfully
+2019-10-07 13:02:42,876  INFO [main] Scenario1:84 - Negative input validation passed
+2019-10-07 13:02:43,943 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 13:02:43,946 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 13:02:43,948 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 13:02:43,950 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 13:02:43,951 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 13:02:44,248 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 13:02:44,249 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 13:02:44,249 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 13:02:44,251 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 13:02:44,251 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 13:03:10,550  INFO [main] Scenario1:36 - Page is redirecting to proper web page
+2019-10-07 13:03:13,622  INFO [main] Scenario1:49 - Product title validate successfully
+2019-10-07 13:03:13,742  INFO [main] Scenario1:53 - Product price validate successfully
+2019-10-07 13:03:40,696  INFO [main] Scenario2:68 - description validate successfully
+2019-10-07 13:03:41,146  INFO [main] Scenario2:55 - specification validate successfully
+2019-10-07 13:03:42,458  INFO [main] Scenario2:102 - Sorting by date Functionality Working Properly
+2019-10-07 13:03:42,694  INFO [main] Scenario2:102 - Sorting by date Functionality Working Properly
+2019-10-07 13:03:45,759  INFO [main] Scenario2:105 - Sorting by date Functionality Working Properly
+2019-10-07 13:03:46,211  INFO [main] Scenario2:105 - Sorting by date Functionality Working Properly
+2019-10-07 13:03:49,343  INFO [main] Scenario2:141 - Sorting by rating Functionality Working Properly
+2019-10-07 13:03:49,514  INFO [main] Scenario2:141 - Sorting by rating Functionality Working Properly
+2019-10-07 13:03:52,257  INFO [main] Scenario2:144 - Sorting by rating Functionality Working Properly
+2019-10-07 13:03:52,497  INFO [main] Scenario2:144 - Sorting by rating Functionality Working Properly
+2019-10-07 13:03:53,496 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 13:03:53,498 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 13:03:53,501 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 13:03:53,504 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 13:03:53,505 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 13:03:53,837 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 13:03:53,838 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 13:03:53,838 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 13:03:53,839 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 13:03:53,839 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 13:07:04,672  INFO [main] Scenario1:36 - Page is redirecting to proper web page
+2019-10-07 13:07:07,494  INFO [main] Scenario1:49 - Product title validate successfully
+2019-10-07 13:07:07,597  INFO [main] Scenario1:53 - Product price validate successfully
+2019-10-07 13:07:09,909  INFO [main] Scenario1:58 - Product add to cart button validate successfully
+2019-10-07 13:07:10,015  INFO [main] Scenario1:62 - Product add to wishlist button validate successfully
+2019-10-07 13:07:10,119  INFO [main] Scenario1:65 - Sold
+Out
+2019-10-07 13:07:10,119  INFO [main] Scenario1:67 - Product availibility validate successfully
+2019-10-07 13:07:13,019  INFO [main] Scenario1:84 - Negative input validation passed
+2019-10-07 13:07:34,346  INFO [main] Scenario2:68 - description validate successfully
+2019-10-07 13:07:34,692  INFO [main] Scenario2:55 - specification validate successfully
+2019-10-07 13:07:35,738  INFO [main] Scenario2:102 - Sorting by date Functionality Working Properly
+2019-10-07 13:07:35,984  INFO [main] Scenario2:102 - Sorting by date Functionality Working Properly
+2019-10-07 13:07:36,238  INFO [main] Scenario2:102 - Sorting by date Functionality Working Properly
+2019-10-07 13:07:39,234  INFO [main] Scenario2:105 - Sorting by date Functionality Working Properly
+2019-10-07 13:07:39,568  INFO [main] Scenario2:105 - Sorting by date Functionality Working Properly
+2019-10-07 13:07:39,876  INFO [main] Scenario2:105 - Sorting by date Functionality Working Properly
+2019-10-07 13:07:42,629  INFO [main] Scenario2:141 - Sorting by rating Functionality Working Properly
+2019-10-07 13:07:42,779  INFO [main] Scenario2:141 - Sorting by rating Functionality Working Properly
+2019-10-07 13:07:42,966  INFO [main] Scenario2:141 - Sorting by rating Functionality Working Properly
+2019-10-07 13:07:45,631  INFO [main] Scenario2:144 - Sorting by rating Functionality Working Properly
+2019-10-07 13:07:45,847  INFO [main] Scenario2:144 - Sorting by rating Functionality Working Properly
+2019-10-07 13:07:46,063  INFO [main] Scenario2:144 - Sorting by rating Functionality Working Properly
+2019-10-07 13:07:47,061 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 13:07:47,062 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 13:07:47,064 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 13:07:47,066 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 13:07:47,066 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 13:07:47,359 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 13:07:47,360 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 13:07:47,360 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 13:07:47,361 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 13:07:47,362 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 13:45:41,729  INFO [main] Scenario1:36 - Page is redirecting to proper web page
+2019-10-07 13:46:46,451  INFO [main] Scenario1:49 - Product title validate successfully
+2019-10-07 13:46:46,747  INFO [main] Scenario1:53 - Product price validate successfully
+2019-10-07 13:46:49,705  INFO [main] Scenario1:58 - Product add to cart button validate successfully
+2019-10-07 13:46:50,021  INFO [main] Scenario1:62 - Product add to wishlist button validate successfully
+2019-10-07 13:46:50,347  INFO [main] Scenario1:66 - Product availibility validate successfully
+2019-10-07 13:47:22,316  INFO [main] Scenario1:83 - Negative input validation passed
+2019-10-07 13:47:42,692 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 13:47:42,695 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 13:47:42,707 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 13:47:42,711 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 13:47:42,713 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 13:47:43,186 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 13:47:43,187 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 13:47:43,188 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 13:47:43,190 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 13:47:43,192 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 13:48:21,581 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 13:48:21,584 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 13:48:21,586 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 13:48:21,588 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 13:48:21,589 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 13:48:21,928 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 13:48:21,929 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 13:48:21,929 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 13:48:21,930 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 13:48:21,930 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 14:02:10,002 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 14:02:10,008 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 14:02:10,013 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 14:02:10,015 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 14:02:10,016 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 14:02:10,464 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 14:02:10,465 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 14:02:10,466 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 14:02:10,467 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 14:02:10,468 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 14:04:33,594 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 14:04:33,601 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 14:04:33,604 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 14:04:33,606 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 14:04:33,607 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 14:04:33,935 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 14:04:33,936 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 14:04:33,936 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 14:04:33,937 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 14:04:33,937 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 14:07:12,849 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 14:07:12,854 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 14:07:12,856 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 14:07:12,858 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 14:07:12,859 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 14:07:13,174 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 14:07:13,175 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 14:07:13,176 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 14:07:13,177 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 14:07:13,177 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 14:09:36,727 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 14:09:36,744 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 14:09:36,747 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 14:09:36,750 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 14:09:36,751 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 14:09:37,193 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 14:09:37,194 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 14:09:37,195 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 14:09:37,196 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 14:09:37,196 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 14:12:40,097  INFO [main] Scenario2:56 - specification validate successfully
+2019-10-07 14:12:43,571  INFO [main] Scenario2:105 - Sorting by date Functionality Working Properly
+2019-10-07 14:12:44,412  INFO [main] Scenario2:105 - Sorting by date Functionality Working Properly
+2019-10-07 14:12:45,237  INFO [main] Scenario2:105 - Sorting by date Functionality Working Properly
+2019-10-07 14:12:49,371 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 14:12:49,375 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 14:12:49,380 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 14:12:49,383 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 14:12:49,384 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 14:12:50,048 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 14:12:50,049 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 14:12:50,050 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 14:12:50,050 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 14:12:50,051 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 14:18:18,843  INFO [main] Scenario2:56 - specification validate successfully
+2019-10-07 14:18:24,789  INFO [main] Scenario2:105 - Sorting by date Functionality Working Properly
+2019-10-07 14:18:25,606  INFO [main] Scenario2:105 - Sorting by date Functionality Working Properly
+2019-10-07 14:18:26,429  INFO [main] Scenario2:105 - Sorting by date Functionality Working Properly
+2019-10-07 14:18:31,727  INFO [main] Scenario2:144 - Sorting by rating Functionality Working Properly
+2019-10-07 14:18:32,279  INFO [main] Scenario2:144 - Sorting by rating Functionality Working Properly
+2019-10-07 14:18:33,609  INFO [main] Scenario2:144 - Sorting by rating Functionality Working Properly
+2019-10-07 14:18:44,617 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 14:18:44,620 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 14:18:44,625 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 14:18:44,628 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 14:18:44,629 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 14:18:45,284 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 14:18:45,285 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 14:18:45,286 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 14:18:45,288 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 14:18:45,291 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 14:23:30,386  INFO [main] Scenario2:71 - description validate successfully
+2019-10-07 14:23:31,713  INFO [main] Scenario2:56 - specification validate successfully
+2019-10-07 14:23:35,416  INFO [main] Scenario2:105 - Sorting by date Functionality Working Properly
+2019-10-07 14:23:36,237  INFO [main] Scenario2:105 - Sorting by date Functionality Working Properly
+2019-10-07 14:23:37,056  INFO [main] Scenario2:105 - Sorting by date Functionality Working Properly
+2019-10-07 14:23:44,085  INFO [main] Scenario2:144 - Sorting by rating Functionality Working Properly
+2019-10-07 14:23:44,702  INFO [main] Scenario2:144 - Sorting by rating Functionality Working Properly
+2019-10-07 14:23:45,285  INFO [main] Scenario2:144 - Sorting by rating Functionality Working Properly
+2019-10-07 14:23:49,860 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 14:23:49,862 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 14:23:49,866 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 14:23:49,867 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 14:23:49,868 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 14:23:50,398 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 14:23:50,399 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 14:23:50,400 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 14:23:50,403 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 14:23:50,404 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 14:27:47,427  INFO [main] Scenario2:71 - description validate successfully
+2019-10-07 14:27:48,709  INFO [main] Scenario2:56 - specification validate successfully
+2019-10-07 14:27:57,282  INFO [main] Scenario2:105 - Sorting by date Functionality Working Properly
+2019-10-07 14:27:58,123  INFO [main] Scenario2:105 - Sorting by date Functionality Working Properly
+2019-10-07 14:28:06,064  INFO [main] Scenario2:108 - Sorting by date Functionality Working Properly
+2019-10-07 14:28:07,181  INFO [main] Scenario2:108 - Sorting by date Functionality Working Properly
+2019-10-07 14:28:14,678  INFO [main] Scenario2:150 - Sorting by rating Functionality Working Properly
+2019-10-07 14:28:15,282  INFO [main] Scenario2:150 - Sorting by rating Functionality Working Properly
+2019-10-07 14:28:23,096  INFO [main] Scenario2:153 - Sorting by rating Functionality Working Properly
+2019-10-07 14:28:23,952  INFO [main] Scenario2:153 - Sorting by rating Functionality Working Properly
+2019-10-07 14:28:23,999 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 14:28:24,000 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 14:28:24,002 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 14:28:24,005 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 14:28:24,005 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 14:28:24,518 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 14:28:24,522 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 14:28:24,523 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 14:28:24,524 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 14:28:24,525 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 14:29:36,560  INFO [main] Scenario1:36 - Page is redirecting to proper web page
+2019-10-07 14:30:41,933  INFO [main] Scenario1:49 - Product title validate successfully
+2019-10-07 14:30:42,242  INFO [main] Scenario1:53 - Product price validate successfully
+2019-10-07 14:30:45,086  INFO [main] Scenario1:58 - Product add to cart button validate successfully
+2019-10-07 14:30:45,398  INFO [main] Scenario1:62 - Product add to wishlist button validate successfully
+2019-10-07 14:30:45,703  INFO [main] Scenario1:66 - Product availibility validate successfully
+2019-10-07 14:31:18,256  INFO [main] Scenario1:83 - Negative input validation passed
+2019-10-07 14:31:29,124  INFO [main] Scenario2:71 - description validate successfully
+2019-10-07 14:31:30,550  INFO [main] Scenario2:56 - specification validate successfully
+2019-10-07 14:31:38,575  INFO [main] Scenario2:105 - Sorting by date Functionality Working Properly
+2019-10-07 14:31:39,434  INFO [main] Scenario2:105 - Sorting by date Functionality Working Properly
+2019-10-07 14:31:47,131  INFO [main] Scenario2:108 - Sorting by date Functionality Working Properly
+2019-10-07 14:31:48,658  INFO [main] Scenario2:108 - Sorting by date Functionality Working Properly
+2019-10-07 14:31:56,113  INFO [main] Scenario2:150 - Sorting by rating Functionality Working Properly
+2019-10-07 14:31:56,840  INFO [main] Scenario2:150 - Sorting by rating Functionality Working Properly
+2019-10-07 14:32:04,494  INFO [main] Scenario2:153 - Sorting by rating Functionality Working Properly
+2019-10-07 14:32:05,368  INFO [main] Scenario2:153 - Sorting by rating Functionality Working Properly
+2019-10-07 14:32:06,128 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 14:32:06,130 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 14:32:06,132 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 14:32:06,134 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 14:32:06,135 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 14:32:06,467 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 14:32:06,469 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 14:32:06,469 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 14:32:06,470 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 14:32:06,471 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 14:34:46,666  INFO [main] Scenario1:36 - Page is redirecting to proper web page
+2019-10-07 14:34:50,590  INFO [main] Scenario1:49 - Product title validate successfully
+2019-10-07 14:34:50,677  INFO [main] Scenario1:53 - Product price validate successfully
+2019-10-07 14:34:53,168  INFO [main] Scenario1:58 - Product add to cart button validate successfully
+2019-10-07 14:34:53,256  INFO [main] Scenario1:62 - Product add to wishlist button validate successfully
+2019-10-07 14:34:53,348  INFO [main] Scenario1:66 - Product availibility validate successfully
+2019-10-07 14:34:56,597  INFO [main] Scenario1:83 - Negative input validation passed
+2019-10-07 14:35:20,395  INFO [main] Scenario2:71 - description validate successfully
+2019-10-07 14:35:20,853  INFO [main] Scenario2:56 - specification validate successfully
+2019-10-07 14:35:26,969  INFO [main] Scenario2:105 - Sorting by date Functionality Working Properly
+2019-10-07 14:35:27,196  INFO [main] Scenario2:105 - Sorting by date Functionality Working Properly
+2019-10-07 14:35:27,409  INFO [main] Scenario2:105 - Sorting by date Functionality Working Properly
+2019-10-07 14:35:36,338  INFO [main] Scenario2:108 - Sorting by date Functionality Working Properly
+2019-10-07 14:35:36,562  INFO [main] Scenario2:108 - Sorting by date Functionality Working Properly
+2019-10-07 14:35:36,790  INFO [main] Scenario2:108 - Sorting by date Functionality Working Properly
+2019-10-07 14:35:45,506  INFO [main] Scenario2:151 - Sorting by rating Functionality Working Properly
+2019-10-07 14:35:45,636  INFO [main] Scenario2:151 - Sorting by rating Functionality Working Properly
+2019-10-07 14:35:45,764  INFO [main] Scenario2:151 - Sorting by rating Functionality Working Properly
+2019-10-07 14:35:54,575  INFO [main] Scenario2:154 - Sorting by rating Functionality Working Properly
+2019-10-07 14:35:54,803  INFO [main] Scenario2:154 - Sorting by rating Functionality Working Properly
+2019-10-07 14:35:55,033  INFO [main] Scenario2:154 - Sorting by rating Functionality Working Properly
+2019-10-07 14:35:58,725 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 14:35:58,727 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 14:35:58,729 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 14:35:58,730 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 14:35:58,731 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 14:35:59,086 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 14:35:59,087 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 14:35:59,088 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 14:35:59,089 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 14:35:59,089 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 14:37:11,451  INFO [main] Scenario1:36 - Page is redirecting to proper web page
+2019-10-07 14:37:15,135  INFO [main] Scenario1:49 - Product title validate successfully
+2019-10-07 14:37:15,275  INFO [main] Scenario1:53 - Product price validate successfully
+2019-10-07 14:37:17,690  INFO [main] Scenario1:58 - Product add to cart button validate successfully
+2019-10-07 14:37:17,806  INFO [main] Scenario1:62 - Product add to wishlist button validate successfully
+2019-10-07 14:37:17,914  INFO [main] Scenario1:66 - Product availibility validate successfully
+2019-10-07 14:37:22,034  INFO [main] Scenario1:83 - Negative input validation passed
+2019-10-07 14:37:44,756  INFO [main] Scenario2:71 - description validate successfully
+2019-10-07 14:37:45,088  INFO [main] Scenario2:56 - specification validate successfully
+2019-10-07 14:37:51,040  INFO [main] Scenario2:105 - Sorting by date Functionality Working Properly
+2019-10-07 14:37:51,400  INFO [main] Scenario2:105 - Sorting by date Functionality Working Properly
+2019-10-07 14:38:00,332  INFO [main] Scenario2:108 - Sorting by date Functionality Working Properly
+2019-10-07 14:38:00,638  INFO [main] Scenario2:108 - Sorting by date Functionality Working Properly
+2019-10-07 14:38:08,701  INFO [main] Scenario2:151 - Sorting by rating Functionality Working Properly
+2019-10-07 14:38:08,924  INFO [main] Scenario2:151 - Sorting by rating Functionality Working Properly
+2019-10-07 14:38:17,052  INFO [main] Scenario2:154 - Sorting by rating Functionality Working Properly
+2019-10-07 14:38:17,373  INFO [main] Scenario2:154 - Sorting by rating Functionality Working Properly
+2019-10-07 14:38:18,416 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 14:38:18,418 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 14:38:18,423 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 14:38:18,425 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 14:38:18,427 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 14:38:19,071 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 14:38:19,072 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 14:38:19,072 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 14:38:19,073 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 14:38:19,074 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 16:45:41,540  INFO [main] Scenario1:38 - Page is redirecting to proper web page
+2019-10-07 16:45:44,556  INFO [main] Scenario1:52 - Product title validate successfully
+2019-10-07 16:45:44,708  INFO [main] Scenario1:57 - Product price validate successfully
+2019-10-07 16:45:47,098  INFO [main] Scenario1:64 - Product add to cart button validate successfully
+2019-10-07 16:45:47,231  INFO [main] Scenario1:69 - Product add to wishlist button validate successfully
+2019-10-07 16:45:47,335  INFO [main] Scenario1:74 - Product availibility validate successfully
+2019-10-07 16:45:50,743  INFO [main] Scenario1:92 - Negative input validation passed
+2019-10-07 16:46:10,229  INFO [main] Scenario2:74 - description validate successfully
+2019-10-07 16:46:10,556  INFO [main] Scenario2:58 - specification validate successfully
+2019-10-07 16:46:16,745  INFO [main] Scenario2:109 - Sorting by date Functionality Working Properly
+2019-10-07 16:46:17,057  INFO [main] Scenario2:109 - Sorting by date Functionality Working Properly
+2019-10-07 16:46:26,179  INFO [main] Scenario2:113 - Sorting by date Functionality Working Properly
+2019-10-07 16:46:26,611  INFO [main] Scenario2:113 - Sorting by date Functionality Working Properly
+2019-10-07 16:46:34,811  INFO [main] Scenario2:157 - Sorting by rating Functionality Working Properly
+2019-10-07 16:46:35,005  INFO [main] Scenario2:157 - Sorting by rating Functionality Working Properly
+2019-10-07 16:46:43,059  INFO [main] Scenario2:161 - Sorting by rating Functionality Working Properly
+2019-10-07 16:46:43,352  INFO [main] Scenario2:161 - Sorting by rating Functionality Working Properly
+2019-10-07 16:46:44,507 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 16:46:44,507 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 16:46:44,507 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 16:46:44,507 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 16:46:44,507 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 16:46:44,914 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 16:46:44,914 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 16:46:44,914 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 16:46:44,914 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 16:46:44,929 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 16:48:12,129  INFO [main] Scenario1:38 - Page is redirecting to proper web page
+2019-10-07 16:49:18,578  INFO [main] Scenario1:52 - Product title validate successfully
+2019-10-07 16:49:18,961  INFO [main] Scenario1:57 - Product price validate successfully
+2019-10-07 16:49:21,950  INFO [main] Scenario1:64 - Product add to cart button validate successfully
+2019-10-07 16:49:22,296  INFO [main] Scenario1:69 - Product add to wishlist button validate successfully
+2019-10-07 16:49:22,756  INFO [main] Scenario1:74 - Product availibility validate successfully
+2019-10-07 16:49:56,865  INFO [main] Scenario1:92 - Negative input validation passed
+2019-10-07 16:50:10,500  INFO [main] Scenario2:74 - description validate successfully
+2019-10-07 16:50:11,935  INFO [main] Scenario2:58 - specification validate successfully
+2019-10-07 16:50:21,497  INFO [main] Scenario2:109 - Sorting by date Functionality Working Properly
+2019-10-07 16:50:22,883  INFO [main] Scenario2:109 - Sorting by date Functionality Working Properly
+2019-10-07 16:50:31,525  INFO [main] Scenario2:113 - Sorting by date Functionality Working Properly
+2019-10-07 16:50:33,187  INFO [main] Scenario2:113 - Sorting by date Functionality Working Properly
+2019-10-07 16:50:41,215  INFO [main] Scenario2:157 - Sorting by rating Functionality Working Properly
+2019-10-07 16:50:42,181  INFO [main] Scenario2:157 - Sorting by rating Functionality Working Properly
+2019-10-07 16:50:50,956  INFO [main] Scenario2:161 - Sorting by rating Functionality Working Properly
+2019-10-07 16:50:52,180  INFO [main] Scenario2:161 - Sorting by rating Functionality Working Properly
+2019-10-07 16:50:53,001 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 16:50:53,013 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 16:50:53,021 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 16:50:53,029 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 16:50:53,029 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-10-07 16:50:53,721 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-10-07 16:50:53,721 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-10-07 16:50:53,725 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-10-07 16:50:53,725 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-10-07 16:50:53,725 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ARJUN.SANTRA/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"

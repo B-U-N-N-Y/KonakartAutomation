@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="169842" started-at="2019-10-07T11:18:03Z" finished-at="2019-10-07T11:20:52Z">
+    <groups>
+    </groups>
+    <test name="Scenario1" duration-ms="114437" started-at="2019-10-07T11:18:03Z" finished-at="2019-10-07T11:19:57Z">
+      <class name="com.atmecs.konakartautomation.testscripts.Scenario1">
+        <test-method status="PASS" signature="intitailizeBrowser()[pri:0, instance:com.atmecs.konakartautomation.testscripts.Scenario1@2096442d]" name="intitailizeBrowser" is-config="true" duration-ms="6459" started-at="2019-10-07T11:18:03Z" finished-at="2019-10-07T11:18:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intitailizeBrowser -->
+        <test-method status="PASS" signature="searchBox([Ljava.lang.String;)[pri:1, instance:com.atmecs.konakartautomation.testscripts.Scenario1@2096442d]" name="searchBox" duration-ms="104868" started-at="2019-10-07T11:18:11Z" data-provider="searchbox" finished-at="2019-10-07T11:19:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@e260766]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchBox -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.atmecs.konakartautomation.testscripts.Scenario1@2096442d]" name="tearDown" is-config="true" duration-ms="7" started-at="2019-10-07T11:19:56Z" finished-at="2019-10-07T11:19:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=searchBox status=SUCCESS method=Scenario1.searchBox([Ljava.lang.String;)[pri:1, instance:com.atmecs.konakartautomation.testscripts.Scenario1@2096442d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="closeDriver()[pri:0, instance:com.atmecs.konakartautomation.testscripts.Scenario1@2096442d]" name="closeDriver" is-config="true" duration-ms="628" started-at="2019-10-07T11:19:56Z" finished-at="2019-10-07T11:19:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+      </class> <!-- com.atmecs.konakartautomation.testscripts.Scenario1 -->
+    </test> <!-- Scenario1 -->
+    <test name="Scenario2" duration-ms="55377" started-at="2019-10-07T11:19:57Z" finished-at="2019-10-07T11:20:52Z">
+      <class name="com.atmecs.konakartautomation.testscripts.Scenario2">
+        <test-method status="PASS" signature="startReport()[pri:0, instance:com.atmecs.konakartautomation.testscripts.Scenario2@66d2e7d9]" name="startReport" is-config="true" duration-ms="260" started-at="2019-10-07T11:18:02Z" finished-at="2019-10-07T11:18:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReport -->
+        <test-method status="PASS" signature="intitailizeBrowser()[pri:0, instance:com.atmecs.konakartautomation.testscripts.Scenario2@66d2e7d9]" name="intitailizeBrowser" is-config="true" duration-ms="4357" started-at="2019-10-07T11:19:57Z" finished-at="2019-10-07T11:20:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intitailizeBrowser -->
+        <test-method status="PASS" signature="heroImgContent([Ljava.lang.String;)[pri:2, instance:com.atmecs.konakartautomation.testscripts.Scenario2@66d2e7d9]" name="heroImgContent" duration-ms="11240" started-at="2019-10-07T11:20:02Z" data-provider="heroimage" finished-at="2019-10-07T11:20:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@62b3df3a]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- heroImgContent -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.atmecs.konakartautomation.testscripts.Scenario2@66d2e7d9]" name="tearDown" is-config="true" duration-ms="4" started-at="2019-10-07T11:20:13Z" finished-at="2019-10-07T11:20:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=heroImgContent status=SUCCESS method=Scenario2.heroImgContent([Ljava.lang.String;)[pri:2, instance:com.atmecs.konakartautomation.testscripts.Scenario2@66d2e7d9] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="heroImgSortingDateFunctionality([Ljava.lang.String;)[pri:3, instance:com.atmecs.konakartautomation.testscripts.Scenario2@66d2e7d9]" name="heroImgSortingDateFunctionality" duration-ms="19792" started-at="2019-10-07T11:20:13Z" data-provider="reviewdropdown" finished-at="2019-10-07T11:20:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@420745d7]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- heroImgSortingDateFunctionality -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.atmecs.konakartautomation.testscripts.Scenario2@66d2e7d9]" name="tearDown" is-config="true" duration-ms="0" started-at="2019-10-07T11:20:33Z" finished-at="2019-10-07T11:20:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=heroImgSortingDateFunctionality status=SUCCESS method=Scenario2.heroImgSortingDateFunctionality([Ljava.lang.String;)[pri:3, instance:com.atmecs.konakartautomation.testscripts.Scenario2@66d2e7d9] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="heroImgSortingRatingFunctionality([Ljava.lang.String;)[pri:4, instance:com.atmecs.konakartautomation.testscripts.Scenario2@66d2e7d9]" name="heroImgSortingRatingFunctionality" duration-ms="18876" started-at="2019-10-07T11:20:33Z" data-provider="reviewdropdown" finished-at="2019-10-07T11:20:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@7e11ab3d]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- heroImgSortingRatingFunctionality -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)[pri:0, instance:com.atmecs.konakartautomation.testscripts.Scenario2@66d2e7d9]" name="tearDown" is-config="true" duration-ms="4" started-at="2019-10-07T11:20:52Z" finished-at="2019-10-07T11:20:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=heroImgSortingRatingFunctionality status=SUCCESS method=Scenario2.heroImgSortingRatingFunctionality([Ljava.lang.String;)[pri:4, instance:com.atmecs.konakartautomation.testscripts.Scenario2@66d2e7d9] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="closeDriver()[pri:0, instance:com.atmecs.konakartautomation.testscripts.Scenario2@66d2e7d9]" name="closeDriver" is-config="true" duration-ms="721" started-at="2019-10-07T11:20:52Z" finished-at="2019-10-07T11:20:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:com.atmecs.konakartautomation.testscripts.Scenario2@66d2e7d9]" name="endReport" is-config="true" duration-ms="1043" started-at="2019-10-07T11:20:52Z" finished-at="2019-10-07T11:20:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- com.atmecs.konakartautomation.testscripts.Scenario2 -->
+    </test> <!-- Scenario2 -->
+  </suite> <!-- Suite -->
+</testng-results>
